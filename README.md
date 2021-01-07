@@ -9,15 +9,17 @@ See also "Twitter-Bot-Detection-Rules.txt" for reference.
 
 
 
-HOW TO USE
+< HOW TO USE >
 
-Login to your Twitter Account on desktop browser
+1.Login to your Twitter Account on desktop browser
 
-Open the Developer Console
+2. Open the Developer Console
 
-Copy the Code and place it in the Java Console
+3. Copy the Code and place it in the Java Console
 
-Hit Enter to Run
+4. Hit Enter to Run
 
 
 
+*I'm currently working on "Auto-Follow.js"
+Please make sure to hit the Star or Watch button for updates!
