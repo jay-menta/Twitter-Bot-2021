@@ -7,4 +7,4 @@ setInterval(() => {
 
 
 //500000 = 500000ms = 500 second
-Approximately 20-30 Likes per 8.3min
+///Approximately 20-30 Likes per 8.3min
